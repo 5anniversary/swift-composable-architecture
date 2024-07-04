@@ -145,6 +145,15 @@
       }
     },
     {
+      "identity" : "swift-syntax-xcframeworks",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sjavora/swift-syntax-xcframeworks.git",
+      "state" : {
+        "revision" : "7501c18dfe20e637818d838df961072176d6296e",
+        "version" : "510.0.1"
+      }
+    },
+    {
       "identity" : "swiftui-navigation",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swiftui-navigation",
